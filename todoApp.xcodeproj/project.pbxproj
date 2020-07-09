@@ -15,6 +15,7 @@
 		BABFC09924B55DC900CF1BD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BABFC09724B55DC900CF1BD7 /* LaunchScreen.storyboard */; };
 		BABFC0A424B55DC900CF1BD7 /* todoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BABFC0A324B55DC900CF1BD7 /* todoAppTests.swift */; };
 		BABFC0AF24B55DC900CF1BD7 /* todoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BABFC0AE24B55DC900CF1BD7 /* todoAppUITests.swift */; };
+		BABFC0BF24B572D800CF1BD7 /* AddController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BABFC0BE24B572D800CF1BD7 /* AddController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BABFC0AA24B55DC900CF1BD7 /* todoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = todoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BABFC0AE24B55DC900CF1BD7 /* todoAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoAppUITests.swift; sourceTree = "<group>"; };
 		BABFC0B024B55DC900CF1BD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BABFC0BE24B572D800CF1BD7 /* AddController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BABFC08E24B55DC700CF1BD7 /* SceneDelegate.swift */,
 				BABFC09024B55DC700CF1BD7 /* ViewController.swift */,
 				BABFC09224B55DC700CF1BD7 /* Main.storyboard */,
+				BABFC0BE24B572D800CF1BD7 /* AddController.swift */,
 				BABFC09524B55DC900CF1BD7 /* Assets.xcassets */,
 				BABFC09724B55DC900CF1BD7 /* LaunchScreen.storyboard */,
 				BABFC09A24B55DC900CF1BD7 /* Info.plist */,
@@ -262,6 +265,7 @@
 				BABFC09124B55DC700CF1BD7 /* ViewController.swift in Sources */,
 				BABFC08D24B55DC700CF1BD7 /* AppDelegate.swift in Sources */,
 				BABFC08F24B55DC700CF1BD7 /* SceneDelegate.swift in Sources */,
+				BABFC0BF24B572D800CF1BD7 /* AddController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
